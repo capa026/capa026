@@ -22,7 +22,7 @@
 ---
 
 ## **📌 Current Projects**  
-**LandingShhop**
+**LandingShop**
 - Landing page of an online Service of buying products on internet for people in Venezuela
 
 <a href="https://landingshop.netlify.app/">
