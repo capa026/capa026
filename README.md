@@ -1,19 +1,36 @@
-# Hey there! 👋 I'm Carlos Pacheco  
-### Full-Stack Developer | Backend Enthusiast | Venezuela  
+# 👋 Carlos Pacheco | Full-Stack Developer  
 
-💡 **About Me**  
-- 🔭 Currently focused on **building secure APIs** and leveling up my backend skills.  
-- 🌱 Self-taught via [roadmap.sh](https://roadmap.sh) and hands-on practice.  
-- 🎮 Love gaming and hanging out with family when I’m not coding.  
+### **📍 Venezuelan Developer | Backend Specialist | Open to Collaborations**  
 
-🛠 **Tech Stack**  
-- **Frontend:** React, Astro, Tailwind  
-- **Backend:** Node.js, Express, Python  
-- **Databases:** PostgreSQL, MongoDB  
+---
 
-🚀 **Projects**  
-*(Coming soon! Working on something cool.)*  
+## **🛠️ Technical Skills**  
+**Frontend:** React, Astro, Tailwind CSS  
+**Backend:** Node.js, Express, Python  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub  
 
-📫 **Let’s Connect!**  
-- Email: carlospacheco.fx@gmail.com
-- WhattsApp: +584246462683
+---
+
+## **🚀 About Me**  
+> *"Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder."*  
+
+- 🔍 **Focus:** Building secure, scalable backend architectures and RESTful APIs.  
+- 🌱 **Learning:** Deepening expertise in API optimization and system design.  
+- 🎯 **Mindset:** Problem-solver with a strong emphasis on clean, maintainable code.  
+
+---
+
+## **📌 Current Projects**  
+*(Under active development – updates coming soon!)*  
+<!-- Add project links later with brief descriptions -->  
+
+---
+
+## **📬 Let’s Connect**  
+- **Phone:** +584246462683
+- **Email:** carlospacheco.fx@gmail.cm
+
+---
+
+⚡ **Fun Fact:** When not coding, I’m gaming or enjoying time with family!  
