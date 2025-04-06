@@ -15,6 +15,5 @@
 *(Coming soon! Working on something cool.)*  
 
 📫 **Let’s Connect!**  
-- GitHub: [your-profile](https://github.com/your-profile)  
-- Email: your-email@example.com  
-- *(Add phone if public)*  
+- Email: carlospacheco.fx@gmail.com
+- WhattsApp: +584246462683
