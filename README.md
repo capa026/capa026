@@ -23,7 +23,7 @@
 
 ## **📌 Current Projects**  
 <a href="https://landingshop.netlify.app/">
-![Landing Page](https://github.com/capa026/capa026/blob/main/LandingShop.png)
+  <img src="https://github.com/capa026/capa026/blob/main/LandingShop.png" alt="LandingPage"/>
 </a>
 <!-- Add project links later with brief descriptions -->  
 
