@@ -27,10 +27,6 @@
 
 ---
 
-## **📬 Let’s Connect**  
+## **📬 Contact Me**  
 - **Phone:** +584246462683
 - **Email:** carlospacheco.fx@gmail.cm
-
----
-
-⚡ **Fun Fact:** When not coding, I’m gaming or enjoying time with family!  
