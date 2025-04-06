@@ -1,6 +1,13 @@
 # 👋 Carlos Pacheco | Full-Stack Developer  
 
 ### **📍 Venezuelan Developer | Backend Specialist | Open to Collaborations**  
+## *Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder.*  
+---
+
+## **🚀 About Me**  
+
+- 🔍 **Focus:** Building secure, scalable backend architectures and RESTful APIs.  
+- 🌱 **Learning:** Deepening expertise in API optimization and system design.  
 
 ---
 
@@ -9,15 +16,6 @@
 **Backend:** Node.js, Express, Python  
 **Databases:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub  
-
----
-
-## **🚀 About Me**  
-> *"Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder."*  
-
-- 🔍 **Focus:** Building secure, scalable backend architectures and RESTful APIs.  
-- 🌱 **Learning:** Deepening expertise in API optimization and system design.  
-- 🎯 **Mindset:** Problem-solver with a strong emphasis on clean, maintainable code.  
 
 ---
 
