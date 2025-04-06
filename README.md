@@ -1,7 +1,8 @@
 # 👋 Carlos Pacheco | Full-Stack Developer  
 
-### **📍 Venezuelan Developer | Backend Specialist | Open to Collaborations**  
-#### Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder. 
+### **Open to Collaborations**  
+  Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder.
+  I like to learn everything i can.
 ---
 
 ## **🚀 About Me**  
