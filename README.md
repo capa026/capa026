@@ -3,7 +3,7 @@
 ## **Open to Collaborations**
 
 - Venezuelan full-stack developer passionate about backend systems, turning ideas into robust APIs, and lifelong learning as a self-taught coder.
-- I like to learn everything i can.
+- I like to learn.
 ---
 
 ## **🚀 About Me**  
@@ -21,7 +21,7 @@
 
 ---
 
-## **📌 Current Projects**  
+## **📌 Projects**  
 **LandingShop**
 - Landing page of an online Service of buying products on internet for people in Venezuela
 
