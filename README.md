@@ -8,8 +8,8 @@
 
 ## **🚀 About Me**  
 
+- 🌱 **Learning:** Liarning all related to frontend and backend development.  
 - 🔍 **Focus:** Building secure, scalable backend architectures and RESTful APIs.  
-- 🌱 **Learning:** Deepening expertise in API optimization and system design.  
 
 ---
 
@@ -29,10 +29,8 @@
   <img src="https://github.com/capa026/capa026/blob/main/LandingShop.png?raw=true" alt="LandingShop Preview">
 </a>
 
-<!-- Add project links later with brief descriptions -->  
-
 ---
 
 ## **📬 Contact**  
 - **Phone:** +584246462683
-- **Email:** carlospacheco.fx@gmail.cm
+- **Email:** carlospacheco.fx@gmail.com
