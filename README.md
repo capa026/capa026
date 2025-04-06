@@ -22,7 +22,7 @@
 ---
 
 ## **📌 Current Projects**  
-*(Under active development – updates coming soon!)*  
+![Landing Page](https://github.com/capa026/capa026/blob/main/LandingShop.png)
 <!-- Add project links later with brief descriptions -->  
 
 ---
