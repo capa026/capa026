@@ -24,10 +24,9 @@
 ## **📌 Current Projects**  
 **LandingShhop**
 - Landing page of an online Service of buying products on internet for people in Venezuela
-[![Image Alt Text](https://github.com/capa026/capa026/blob/main/LandingShop.png)](https://landingshop.netlify.app/)
 
-<a href="https://landingshop.netlify.app/" target="_blank">
-  <img src="https://github.com/capa026/capa026/blob/main/LandingShop.png?raw=true" alt="LandingShop Preview" width="600">
+<a href="https://landingshop.netlify.app/">
+  <img src="https://github.com/capa026/capa026/blob/main/LandingShop.png?raw=true" alt="LandingShop Preview">
 </a>
 
 <!-- Add project links later with brief descriptions -->  
