@@ -22,7 +22,8 @@
 ---
 
 ## **📌 Current Projects**  
-- **Landing page of an online Service of buying products on internet for people in Venezuela**
+**LandingShhop**
+- Landing page of an online Service of buying products on internet for people in Venezuela
 <a href="https://landingshop.netlify.app/" target="_blank">
   <img src="https://github.com/capa026/capa026/blob/main/LandingShop.png" alt="LandingPage"/>
 </a>
