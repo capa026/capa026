@@ -8,8 +8,7 @@
 
 ## **🚀 About Me**  
 
-- 🌱 **Learning:** Liarning all related to frontend and backend development.  
-- 🔍 **Focus:** Building secure, scalable backend architectures and RESTful APIs.  
+🔭 I’m currently working on personal projects that involve databases and fullstack development<br>👯 I’m open to collaborating on fullstack or backend projects<br>🌱 I’m currently learning best practices in backend development, terminal usage, SQL, and PostgreSQL, while also improving my English skills<br>⚡ Fun fact: I didn’t realize how efficient working with a terminal could be until I started using it seriously. It felt like I was walking and suddenly started driving a car 
 
 ---
 
